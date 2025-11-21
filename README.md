@@ -10,6 +10,8 @@ Mode Terang
 <img width="522" height="831" alt="Screenshot 2025-11-21 200150" src="https://github.com/user-attachments/assets/3d91fe1b-b47a-4b21-84a1-3247e9ef53b8" />
 <img width="523" height="823" alt="Screenshot 2025-11-21 200209" src="https://github.com/user-attachments/assets/0902689d-79f7-48fa-9085-78dbe464098e" />
 
+
+
 Mode Gelap
 
 <img width="523" height="828" alt="Screenshot 2025-11-21 200237" src="https://github.com/user-attachments/assets/65f1448e-fff0-470c-a0c2-5c601d86094b" />
